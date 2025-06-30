@@ -1,0 +1,111 @@
+<?xml version="1.0" ?>
+<Hotel>
+  <Hotel rating="4">
+    <Phone>(480)-968-8885</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>11</Number>
+      <Street>E 7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  <Hotel rating="3">
+    <Name>Moxy Phoenix Tempe/ASU Area</Name>
+    <Address NearestAirport="Sky Harbor">
+      <Number>1333</Number>
+      <Street>S Rural Rd</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  <Hotel rating="3">
+    <Name>Marriott Phoenix Resort Tempe at The Buttes</Name>
+    <Phone>(602)-225-9000</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>2000</Number>
+      <Street>W Westcourt Way</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85282</Zip>
+  </Hotel>
+  <Hotel rating="3">
+    <Name>Fairfield Inn &amp; Suites Tempe</Name>
+    <Name>Fairfield Inn &amp; Suites Tempe</Name>
+    <Phone>(520)-536-8100</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>1929</Number>
+      <Street>E Rio Salado Pkwy</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85288</Zip>
+    </Address>
+  </Hotel>
+  <Hotel rating="3">
+    <Name>Holiday Inn &amp; Suites Scottsdale North - Airpark by IHG</Name>
+    <Phone>(480)-922-6500</Phone>
+    <Address NearestAirport="Scottsdale Airport">
+      <Number>1425</Number>
+      <Street>N 87th St</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <Zip>85260</Zip>
+    </Address>
+  </Hotel>
+  <Hotel rating="5">
+    <Name>Privado Villas at Fairmont Scottsdale Princess</Name>
+    <Phone>(480)-585-2630</Phone>
+    <Address NearestAirport="Scottsdale Airport">
+      <Number>7575</Number>
+      <Street>E Princess Dr</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <Zip>85255</Zip>
+    </Address>
+  </Hotel>
+  <Hotel rating="3">
+    <Name>Four Points by Sheraton at Phoenix Mesa Gateway Airport</Name>
+    <Phone>(480)-579-2100</Phone>
+    <Address NearestAirport="Phoenix-Mesa Gateway">
+      <Number>6850</Number>
+      <Street>E Williams Field Rd</Street>
+      <City>Mesa</City>
+      <State>AZ</State>
+      <Zip>85212</Zip>
+    </Address>
+  </Hotel>
+  <Hotel rating="3">
+    <Name>Hampton Inn &amp; Suites Phoenix/Gilbert</Name>
+    <Phone>(480)-543-1500</Phone>
+    <Address NearestAirport="Chandler Municipal">
+      <Number>3265</Number>
+      <Street>S Market St</Street>
+      <City>Gilbert</City>
+      <State>AZ</State>
+      <Zip>85297</Zip>
+    </Address>
+  </Hotel>
+  <Hotel rating="3">
+    <Name>Hilton Garden Inn Chandler Downtown</Name>
+    <Phone>(623)-471-8400</Phone>
+    <Address NearestAirport="Chandler Municipal">
+      <Number>150</Number>
+      <Street>S Arizona Ave</Street>
+      <City>Chandler</City>
+      <State>AZ</State>
+      <Zip>85225</Zip>
+    </Address>
+  </Hotel>
+  <Hotel rating="3">
+    <Name>Residence Inn Phoenix Chandler/South</Name>
+    <Phone>(480)-210-2727</Phone>
+    <Address NearestAirport="Chandler Municipal">
+      <Number>2727</Number>
+      <Street>W Queen Creek Rd</Street>
+      <City>Chandler</City>
+      <State>AZ</State>
+      <Zip>85248</Zip>
+    </Address>
+  </Hotel>
+</Hotels>
